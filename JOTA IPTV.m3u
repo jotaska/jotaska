@@ -1,0 +1,43 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-chno="1" group-title="Deportes",NBC Universo FHD
+http://gostreambt.ml:2052/hls_gostreambt/039/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDY6MjY6MDkgUE0maGFzaF92YWx1ZT1DeW5wTVRBUC8xaEcydUlyNmNsMkJBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="2" group-title="Deportes",Bein Sports Ñ
+http://gostreambt.ml:2052/hls_gostreambt/320/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDY6NTk6MjAgUE0maGFzaF92YWx1ZT02Q2FVMFQ3b0IxaE9kT1RUZU8zRzFnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="3" group-title="Deportes",UDN HD
+http://gostreambt.ml:2052/hls_gostreambt/128/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDc6MDI6MDUgUE0maGFzaF92YWx1ZT1rcjl0cnZ5TGVsVWtnMkNRRkcyODlRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="4" group-title="Deportes",UDN FHD
+http://gostreambt.ml:2052/hls_gostreambt/303/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDc6MDQ6MTggUE0maGFzaF92YWx1ZT1BOGsvTVlHMElWSVQ0MXluK2hGY1lBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="5" group-title="Deportes",ESPN Deportes FHD (USA)
+http://gostreambt.ml:2052/hls_gostreambt/298/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6MDg6NDkgUE0maGFzaF92YWx1ZT14NUtWMGgrbjVMb0EwYUlUYzd6OGtBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="6" group-title="Deportes",Fox Sports Sur
+http://fruitlive.ml:2052/fruit_public/121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDc6NTA6MjAgUE0maGFzaF92YWx1ZT1Fc3dtVlplZEhJMTNibkhKczFuamtBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="7" group-title="Deportes",Fox Sports 2 Sur
+http://fruitlive.ml:2052/fruit_public/123/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDc6NTI6NTUgUE0maGFzaF92YWx1ZT12ajFJdDN3T2dPM3g2NFRkZHNlNjFnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="8" group-title="Deportes",Fox Sports 3 Sur
+http://fruitlive.ml:2052/fruit_public/125/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDc6NTU6NDggUE0maGFzaF92YWx1ZT1qVzhwWVRsQXVwWlZwM2NGYzZqbzdBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="9" group-title="Deportes",TDN (Mex)
+http://gostreambt.ml:2052/hls_gostreambt/296/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDc6NTg6MzIgUE0maGFzaF92YWx1ZT1kaWVjUzU3UnhkOWYrRjA3MEw2NzJRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="10" group-title="Deportes",ESPN Sur
+http://gostreambt.ml:2052/hls_gostreambt/120/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6MDQ6MzIgUE0maGFzaF92YWx1ZT1VU3phS2s4cHgrTmFMVnNRR0cvc0p3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="11" group-title="Deportes",ESPN 2 Sur
+http://gostreambt.ml:2052/hls_gostreambt/196/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6MDY6MTUgUE0maGFzaF92YWx1ZT1acDA3anYwODNnMUNBdUhTU0J3MlFBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="12" group-title="Deportes",ESPN 3 Sur
+http://gostreambt.ml:2052/hls_gostreambt/116/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6MTM6MjggUE0maGFzaF92YWx1ZT1kVHI2ak1oYWFGSTk4QzRVTW1Jamx3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="13" group-title="Deportes",Tigo Sports Costa Rica
+http://gostreambt.ml:2052/hls_gostreambt/164/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDk6MDQ6MTggUE0maGFzaF92YWx1ZT13UGswbmlFSlpNSGZwY1ErNlU5aU93PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="1" group-title="HBO Latinos",HBO
+http://gostreambt.ml:2052/hls_gostreambt/087/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6Mjk6MTAgUE0maGFzaF92YWx1ZT11bFdnNlJBZDF1R3p5NUtwUlRlcVlBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="2" group-title="HBO Latinos",HBO FHD
+http://gostreambt.ml:2052/hls_gostreambt/543/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6MzU6MTAgUE0maGFzaF92YWx1ZT14Y0N1amczRGx2WG1lTHdqOXB1T2hRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="3" group-title="HBO Latinos",HBO 2
+http://gostreambt.ml:2052/hls_gostreambt/547/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6Mzc6NTAgUE0maGFzaF92YWx1ZT1EMzdxL0J3QmZZa1M1dlVhRG0wTGZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="4" group-title="HBO Latinos",HBO 2 FHD
+http://gostreambt.ml:2052/hls_gostreambt/547/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6Mzc6NTAgUE0maGFzaF92YWx1ZT1EMzdxL0J3QmZZa1M1dlVhRG0wTGZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="5" group-title="HBO Latinos",HBO PLUS
+http://gostreambt.ml:2052/hls_gostreambt/089/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6NDk6MTAgUE0maGFzaF92YWx1ZT0ycWtCdUNXZGtMdmVodmxkUXlucGpnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="6" group-title="HBO Latinos",HBO PLUS FHD
+http://gostreambt.ml:2052/hls_gostreambt/545/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6NDM6MTYgUE0maGFzaF92YWx1ZT0rTGRQU08xQXNVRXlhbUtpa2RpUmpnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="7" group-title="HBO Latinos",HBO Family
+http://gostreambt.ml:2052/hls_gostreambt/088/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6NTc6MDYgUE0maGFzaF92YWx1ZT1kdEJkcVZIai9IbDBOaWhSRTk2Vk13PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
+#EXTINF:-1 tvg-chno="8" group-title="HBO Latinos",HBO Family FHD
+http://gostreambt.ml:2052/hls_gostreambt/544/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDE5IDg6NTk6MjcgUE0maGFzaF92YWx1ZT1yTm15bUQ1ejZhWmQ5eGltbEQwejJRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0w
